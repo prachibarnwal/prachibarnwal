@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Prachii!  <br>🔭 I’m currently working on improving my Technical Skills.  <br>👯 I’m looking to collaborate on software development and community-driven projects. <br>🤝 I’m open to guidance on contributing to open-source communities<br>🌱 I’m currently learning more about open-source and coding practices<br>⚡ Fun fact:  I enjoy diving into new technologies!<br><br>
+👋 Hey, I'm Prachii!  <br>🔭 I’m currently working on improving my Technical Skills.  <br>👯 I’m looking to collaborate on software development and community-driven projects. <br>🤝 I’m open to guidance on contributing to open-source communities.<br>🌱 I’m currently learning more about open-source and coding practices.<br>⚡ Fun fact:  I enjoy diving into new technologies!<br><br>
 
 
 ## 🌐 Socials:
